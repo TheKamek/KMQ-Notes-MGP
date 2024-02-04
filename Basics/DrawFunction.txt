@@ -1,0 +1,5 @@
+Draw updates as fast as possible. 
+draw = function()
+  screen.clear()
+  screen.drawSprite("name", x, y, height, width)
+end

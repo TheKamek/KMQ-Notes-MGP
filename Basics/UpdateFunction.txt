@@ -1,0 +1,7 @@
+Update is called 60 times per second. 
+
+update = function()
+  if keyboard.UP then
+
+  end
+end

@@ -1,0 +1,7 @@
+The init function is called on start.
+Its Build is:
+
+init = function()
+  player = object end //Defining Player;
+  player.x = 0  //Setting Player x to 0;
+end
